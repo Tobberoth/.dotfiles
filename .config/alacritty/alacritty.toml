@@ -5,5 +5,4 @@ program = "nu"
 normal = { family = "IosevkaTerm Nerd Font Mono", style = "Regular" }
 
 [window]
-decorations = "none"
 opacity = 0.85
