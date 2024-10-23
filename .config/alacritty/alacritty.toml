@@ -1,4 +1,4 @@
-[shell]
+[terminal.shell]
 program = "nu"
 
 [font]
@@ -6,3 +6,5 @@ normal = { family = "IosevkaTerm Nerd Font Mono", style = "Regular" }
 
 [window]
 opacity = 0.85
+
+[terminal]
